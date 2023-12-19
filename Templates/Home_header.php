@@ -85,7 +85,7 @@
       <div class="container-fluid d-flex justify-content-around">
         <a class="navbar-brand" href="#">
           <img
-            src="../Jober.com.png"
+            src="../Assets/Logo/jober.com.png"
             alt=""
             class="d-inline-block align-text-top"
             style="height: 60px; width: 140px"
@@ -152,5 +152,3 @@
       integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
       crossorigin="anonymous"
     ></script>
-  </body>
-</html>
